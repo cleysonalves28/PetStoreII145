@@ -1,0 +1,20 @@
+{
+  "id": 413661,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Flor",
+  "photoUrls": [],
+  "tags": [
+    {
+      "id": 1,
+      "name": "vacinado"
+    },
+    {      
+      "id": 2,
+      "name": "vermifugado"
+    }
+  ],
+  "status": "available"
+}
